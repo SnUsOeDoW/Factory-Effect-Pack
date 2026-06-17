@@ -1,0 +1,8 @@
+name: "factory-effects-pack"
+displayName: "Effects Pack для заводов"
+description: "Visual effects for vanilla factory buildings. Server-compatible texture pack."
+subtitle: "Overhaul Effect"
+version: "1.4.4.8"
+author: "Мод на эффекты заводов из мода Mindustry Overhaul by KOSTOLOM"
+minGameVersion: 154
+hidden: true
